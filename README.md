@@ -9,7 +9,7 @@ In this repository, there are different resources to prepare for coding intervie
 
 ## Who am I?
 
-My name is Itamar Rocha Filho; I'm currently a Software Engineering Intern on Google, and I've also received some offers from different companies. :D
+My name is Itamar Rocha Filho; I'm currently a Software Engineering Intern at Google, and I've also received some offers from different companies. :D
 
 ## Resources
 In this section, there are many resources, divided on:
@@ -29,6 +29,8 @@ A more in-depth overview of the different algorithms and data structures is [Cor
 
 If you want to dive even deeper, you can also study competitive programming with [the Competitive Programming Book](https://cpbook.net/)
 
+In my opinion, the craking the coding interview is the best book to study, because it has a focus on interviews. Just be sure to use it along with one of the websites to practice the coding questions. Practice is the key.
+
 ### Courses
 
 * [FreeCodeCamp](https://www.youtube.com/watch?v=8hly31xKli0)
@@ -39,7 +41,7 @@ If you want to dive even deeper, you can also study competitive programming with
 * [Algoexpert](https://www.algoexpert.io/) (Beginner friendly)
   Platform with crash courses on data structures and algorithms, extra material on behavioural interviews and many different problems. 49$ yearly subscription, with 5$ discount using clem as promo code.
 
-* [Leetcode](https://leetcode.com/) (Not beginner-friendly)
+* [Leetcode](https://leetcode.com/) (Not beginner friendly)
   The most famous platform contains more than 1600 exercises and a strong community.
 
 * [Pramp](https://www.pramp.com/#/)
@@ -57,11 +59,11 @@ If you want to dive even deeper, you can also study competitive programming with
 
 ### Other Resources
 
-I'm currently subscribed to the [The Daily Byte](https://thedailybyte.dev/), and I have been trying to keep up with it for the last few months. It is an excellent resource for practising for the interviews because you receive a different exercise every day about a subject (which changes every week). On leetcode, you can find almost all the exercises. I have a repository where I store my code there, and you can check it on this [link](https://github.com/ItamarRocha/DailyByte).
+I'm currently subscribed to the [The Daily Byte](https://thedailybyte.dev/), and I have been trying to keep up with it for the last few months. It is an excellent resource for practising for the interviews. You receive a different exercise every day about a subject (which changes every week). On leetcode, you can find almost all the exercises. I have a repository where I store my code there, and you can check it on this [link](https://github.com/ItamarRocha/DailyByte).
 
-### RoadMap
+### Roadmap
 
-To prepare for my interviews, I used algoexpert, where I did the crash courses and some of the available exercises. After training, I started using pramp (where I did approximately 30 interviews) and leetcode. Nowadays, I'm not studying as much as before, so I try to keep up with the Daily Byte and eventually do some exercises on leetcode.
+To prepare for my interviews, I read cracking the coding interview as an introduction to the topic. Then, I used algoexpert, where I did the crash courses and some of the available exercises. After training, I started using pramp (where I did approximately 30 interviews) and leetcode. Nowadays, I'm not studying as much as before, so I try to keep up with the Daily Byte and eventually do some exercises on leetcode.
 
 
 ## License
