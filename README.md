@@ -3,13 +3,9 @@ In this repository, there are different resources to prepare for coding intervie
 
 
 ## Contents
-- [Who am I?](#Who-Am-I)
 - [Resources](#Resources)
 - [License](#License)
 
-## Who am I?
-
-My name is Itamar Rocha Filho; I'm currently a Software Engineer intern at Meta, previously Software Engineering Intern at Google, and I've also received some offers from different companies. :D
 
 ## Resources
 In this section, there are many resources, divided on:
