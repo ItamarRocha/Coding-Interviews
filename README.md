@@ -52,6 +52,7 @@ In my opinion, the craking the coding interview is the best book to study, becau
 * [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
 * [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
 * [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
+* [NeetCode](https://www.youtube.com/channel/UC_mYaQAE6-71rjSN6CeCA-g)
 
 ### Other Resources
 
