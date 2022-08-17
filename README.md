@@ -62,6 +62,14 @@ I'm currently subscribed to the [The Daily Byte](https://thedailybyte.dev/), and
 
 To prepare for my interviews, I read cracking the coding interview as an introduction to the topic. Then, I used algoexpert, where I did the crash courses and some of the available exercises. After training, I started using pramp (where I did approximately 30 interviews) and leetcode. Nowadays, I'm not studying as much as before, so I try to keep up with the Daily Byte and eventually do some exercises on leetcode.
 
+---
+## Authors
+
+|<a href="https://linkedin.com/in/itamarrocha" target="_blank">**Itamar Rocha Filho**</a>      | <a href="https://www.linkedin.com/in/humbertonc" target="_blank">**Humberto Navarro**</a> |||
+|:---------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
+|               <img src="https://avatars.githubusercontent.com/u/53613091?s=400&u=2c8625113ab6b057e40345bcd090df744bb2d6aa&v=4" width="200px"> </img>                          | <img src="https://avatars.githubusercontent.com/u/54050212?v=4" width="200px"> </img>|||
+|  <a href="https://github.com/ItamarRocha" target="_blank">`github.com/ItamarRocha`</a>  |<a href="https://github.com/humbertonc" target="_blank">`github.com/humbertonc`</a>|||
+
 
 ## License
 
