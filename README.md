@@ -19,7 +19,7 @@ In this section, there are many resources, divided on:
 
 ### Books
 
-The best book to prepare for coding interviews is cracking the coding interview. The book can be accessed on this [link](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf).
+The best book to prepare for coding interviews is cracking the coding interview. The book can be accessed on this [link](https://www.haio.ir/app/uploads/2021/12/Cracking-the-Coding-Interview-189-Programming-Questions-and-Solutions-by-Gayle-Laakmann-McDowell-z-lib.org_.pdf).
 
 A more in-depth overview of the different algorithms and data structures is [Cormen's Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844).
 
