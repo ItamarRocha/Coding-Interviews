@@ -43,6 +43,9 @@ In my opinion, the craking the coding interview is the best book to study, becau
 * [Pramp](https://www.pramp.com/#/)
   Excellent platform to train for actual coding interviews. You pair up with another person studying for coding interviews, and you interview each other.
   
+* [Practick](https://practick.io/) (Free)
+  Peer-to-peer mock interviews for DSA and system design. You interview someone to earn an interview, and the interviewer gets a guide and rubric for every question.
+  
 * [InterviewBit](https://www.interviewbit.com/)
   Many exercises and different crash courses on programming languages too. It also has roadmaps to help you prepare better.
  
